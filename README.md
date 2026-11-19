@@ -98,7 +98,7 @@ curl -X DELETE http://localhost:3000/usuarios/1
 └── README.md
 ```
 
-![POST](image.png)
-![PUT](image-2.png)
-![DELETE](image-3.png)
-![GET](image-1.png)
+![POST](/ImagesExamples/image.png)
+![PUT](/ImagesExamples/image-2.png)
+![DELETE](/ImagesExamples/image-3.png)
+![GET](/ImagesExamples/image-1.png)
